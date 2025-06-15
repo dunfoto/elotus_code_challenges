@@ -1,0 +1,7 @@
+{
+    "Movie": {
+        "title": "Phim",
+        "search": "Tìm kiếm phim...",
+        "noResults": "Không tìm thấy kết quả nào"
+    }
+}

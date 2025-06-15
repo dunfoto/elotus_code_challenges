@@ -1,0 +1,7 @@
+{
+    "Movie": {
+        "title": "Movies",
+        "search": "Search for movies...",
+        "noResults": "No results found"
+    }
+}
